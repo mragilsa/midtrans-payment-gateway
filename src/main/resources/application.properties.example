@@ -1,0 +1,9 @@
+spring.application.name=midtrans-payment
+
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp
+server.port=8080
+
+midtrans.server.key=YOUR_SERVER_KEY
+midtrans.client.key=YOUR_CLIENT_KEY
+midtrans.isProduction=false
